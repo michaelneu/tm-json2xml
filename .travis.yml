@@ -5,4 +5,4 @@ python:
 install:
   - pip install flake8 --use-mirrors
 script:
-  - flake8 --max-line-length=80 --ignore=W191 tm-json2xml.py
+  - flake8 --max-line-length=80 --ignore=W191,E128 tm-json2xml.py
