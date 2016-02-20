@@ -1,4 +1,4 @@
-# tm-json2xml [![Build Status](https://travis-ci.org/minedev/tm-json2xml.svg?branch=master)](https://travis-ci.org/minedev/tm-json2xml)
+# tm-json2xml [![Build Status](https://travis-ci.org/michaelneu/tm-json2xml.svg?branch=master)](https://travis-ci.org/michaelneu/tm-json2xml)
 
 tm-json2xml is a Python script to help you write more readable XML configuration files. It converts a set of JSON files to TextMate compliant XML format using built-in Python libs. 
 
